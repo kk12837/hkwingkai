@@ -114,7 +114,7 @@ hr.small {
 
 .sidebar-nav > .sidebar-brand {
     height: 55px;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 55px;
 }
 
@@ -237,3 +237,8 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+
+/*custom*/
+.about_img {width:500px; height:375px;}
+.product_img {width: 33%; float: left;}
